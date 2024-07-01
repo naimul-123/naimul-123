@@ -1,6 +1,6 @@
-## Hi! <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="Naimul Islam" width="30">
 
 [![Header](https://raw.githubusercontent.com/naimul-123/naimul-123/main/MERN-logo.png "Header")](https://github.com/naimul-123/)
+## Hi! <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="Naimul Islam" width="30">
 I am Naimul Islam. I have recently compleated my frontend web development learning journy with html, css, javascript, TailwindCSS, react, mongodb, express js. Now I am learning next js. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-naimul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frontend-developer-naimul-islam/)](https://www.linkedin.com/in/frontend-developer-naimul-islam/)
