@@ -1,29 +1,21 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
-### Hi there 👋, I am Naimul Islam
-#### Web developer
-![Web developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/331194269_711264973796936_146844291517691839_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=bH2mLF_KJSYAX-a6sf1&_nc_ht=scontent.fdac27-1.fna&oh=00_AfC1sPgoLBSMkNb4JZkw4qGslOhsu9HBl6NSKuMtGfk5zQ&oe=640CBF54)
+## Fancy seeing you here! <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="Naimul Islam" width="30">
 
-I am a web designer and web developer. its not only my profession but also my passion.
+I am Naimul Islam. I have recently compleated my frontend web development learning journy with html, css, javascript, TailwindCSS, react, mongodb, express js. Now I am learning next js. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-Skills: Html/css/js/bootstrap/php/mysqli/wordpress theme development
+[![Linkedin Badge](https://img.shields.io/badge/-naimul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frontend-developer-naimul-islam/)](https://www.linkedin.com/in/frontend-developer-naimul-islam/)
+[![Instagram Badge](https://img.shields.io/badge/-naimul-islam?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/naimul.noman/?hl=en)](https://www.instagram.com/naimul.noman/?hl=en)
 
-- 🔭 I’m currently working on Wordpress 
-- 🌱 I’m currently learning Wordpress Theme development 
-- 👯 I’m looking to collaborate on Git Hub 
+[![Gmail Badge](https://img.shields.io/badge/-naimuliu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naimuliu@gmail.com)](mailto:naimuliu@gmail.com)
 
+## ⚡ Technologies
 
-(https://github.com/https://github.com/naimul-123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100064305721861)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCEUawBIIJUp7-WoDeWfZnGQ)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/naimul-123)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/naimul-123&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/naimul-123)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/naimul-123)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/naimul-123)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/naimul-123)  
